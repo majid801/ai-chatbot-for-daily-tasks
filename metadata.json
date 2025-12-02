@@ -1,0 +1,5 @@
+{
+  "name": "Daily Task Assistant AI",
+  "description": "A comprehensive AI assistant for managing daily tasks, notes, files, and intelligent chat using Google Gemini.",
+  "requestFramePermissions": []
+}
